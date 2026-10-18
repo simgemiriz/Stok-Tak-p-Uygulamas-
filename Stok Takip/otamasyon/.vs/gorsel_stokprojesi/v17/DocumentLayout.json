@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\savas\\OneDrive\\Masa\u00FCst\u00FC\\gorsel_stokprojesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\savas\\OneDrive\\Masa\u00FCst\u00FC\\gorsel_stokprojesi\\Stok_\\Stok_\\frmSatis.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Stok_\\Stok_\\frmSatis.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\savas\\OneDrive\\Masa\u00FCst\u00FC\\gorsel_stokprojesi\\Stok_\\Stok_\\frmM\u00FC\u015FteriEkle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Stok_\\Stok_\\frmM\u00FC\u015FteriEkle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\savas\\OneDrive\\Masa\u00FCst\u00FC\\gorsel_stokprojesi\\Stok_\\Stok_\\frmSatis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Stok_\\Stok_\\frmSatis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 236,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmSatis.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\savas\\OneDrive\\Masa\u00FCst\u00FC\\gorsel_stokprojesi\\Stok_\\Stok_\\frmSatis.Designer.cs",
+              "RelativeDocumentMoniker": "Stok_\\Stok_\\frmSatis.Designer.cs",
+              "ToolTip": "C:\\Users\\savas\\OneDrive\\Masa\u00FCst\u00FC\\gorsel_stokprojesi\\Stok_\\Stok_\\frmSatis.Designer.cs",
+              "RelativeToolTip": "Stok_\\Stok_\\frmSatis.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T00:16:44.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmSatis.cs",
+              "DocumentMoniker": "C:\\Users\\savas\\OneDrive\\Masa\u00FCst\u00FC\\gorsel_stokprojesi\\Stok_\\Stok_\\frmSatis.cs",
+              "RelativeDocumentMoniker": "Stok_\\Stok_\\frmSatis.cs",
+              "ToolTip": "C:\\Users\\savas\\OneDrive\\Masa\u00FCst\u00FC\\gorsel_stokprojesi\\Stok_\\Stok_\\frmSatis.cs",
+              "RelativeToolTip": "Stok_\\Stok_\\frmSatis.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T00:16:04.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmM\u00FC\u015FteriEkle.cs",
+              "DocumentMoniker": "C:\\Users\\savas\\OneDrive\\Masa\u00FCst\u00FC\\gorsel_stokprojesi\\Stok_\\Stok_\\frmM\u00FC\u015FteriEkle.cs",
+              "RelativeDocumentMoniker": "Stok_\\Stok_\\frmM\u00FC\u015FteriEkle.cs",
+              "ToolTip": "C:\\Users\\savas\\OneDrive\\Masa\u00FCst\u00FC\\gorsel_stokprojesi\\Stok_\\Stok_\\frmM\u00FC\u015FteriEkle.cs",
+              "RelativeToolTip": "Stok_\\Stok_\\frmM\u00FC\u015FteriEkle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T00:16:01.8Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 293,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

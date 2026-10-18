@@ -1,0 +1,49 @@
+C:\Users\savas\OneDrive\Masaüstü\gorsel_stokprojesi\Stok_\Stok_\bin\Debug\Stok_.exe.config
+C:\Users\savas\OneDrive\Masaüstü\gorsel_stokprojesi\Stok_\Stok_\bin\Debug\Stok_.exe
+C:\Users\savas\OneDrive\Masaüstü\gorsel_stokprojesi\Stok_\Stok_\bin\Debug\Stok_.pdb
+C:\Users\savas\OneDrive\Masaüstü\gorsel_stokprojesi\Stok_\Stok_\obj\Debug\Stok_.csproj.AssemblyReference.cache
+C:\Users\savas\OneDrive\Masaüstü\gorsel_stokprojesi\Stok_\Stok_\obj\Debug\Stok_.frmMüşteriEkle.resources
+C:\Users\savas\OneDrive\Masaüstü\gorsel_stokprojesi\Stok_\Stok_\obj\Debug\Stok_.frmSatis.resources
+C:\Users\savas\OneDrive\Masaüstü\gorsel_stokprojesi\Stok_\Stok_\obj\Debug\Stok_.Properties.Resources.resources
+C:\Users\savas\OneDrive\Masaüstü\gorsel_stokprojesi\Stok_\Stok_\obj\Debug\Stok_.csproj.GenerateResource.cache
+C:\Users\savas\OneDrive\Masaüstü\gorsel_stokprojesi\Stok_\Stok_\obj\Debug\Stok_.csproj.CoreCompileInputs.cache
+C:\Users\savas\OneDrive\Masaüstü\gorsel_stokprojesi\Stok_\Stok_\obj\Debug\Stok_.exe
+C:\Users\savas\OneDrive\Masaüstü\gorsel_stokprojesi\Stok_\Stok_\obj\Debug\Stok_.pdb
+C:\Users\savas\OneDrive\Masaüstü\gorsel_stokprojesi\Stok_\Stok_\obj\Debug\Stok_.frmMüşteriListele.resources
+C:\Users\savas\OneDrive\Masaüstü\gorsel_stokprojesi\Stok_\Stok_\obj\Debug\Stok_.frmKategori.resources
+C:\Users\savas\OneDrive\Masaüstü\gorsel_stokprojesi\Stok_\Stok_\obj\Debug\Stok_.frmMarka.resources
+C:\Users\savas\OneDrive\Masaüstü\gorsel_stokprojesi\Stok_\Stok_\obj\Debug\Stok_.frmÜrünEkle.resources
+C:\Users\savas\OneDrive\Masaüstü\gorsel_stokprojesi\Stok_\Stok_\obj\Debug\Stok_.frmÜrünListele.resources
+C:\Users\savas\OneDrive\Masaüstü\gorsel_stokprojesi - Kopya11\Stok_\Stok_\bin\Debug\Stok_.exe.config
+C:\Users\savas\OneDrive\Masaüstü\gorsel_stokprojesi - Kopya11\Stok_\Stok_\bin\Debug\Stok_.exe
+C:\Users\savas\OneDrive\Masaüstü\gorsel_stokprojesi - Kopya11\Stok_\Stok_\bin\Debug\Stok_.pdb
+C:\Users\savas\OneDrive\Masaüstü\gorsel_stokprojesi - Kopya11\Stok_\Stok_\obj\Debug\Stok_.csproj.AssemblyReference.cache
+C:\Users\savas\OneDrive\Masaüstü\gorsel_stokprojesi - Kopya11\Stok_\Stok_\obj\Debug\Stok_.frmKategori.resources
+C:\Users\savas\OneDrive\Masaüstü\gorsel_stokprojesi - Kopya11\Stok_\Stok_\obj\Debug\Stok_.frmMarka.resources
+C:\Users\savas\OneDrive\Masaüstü\gorsel_stokprojesi - Kopya11\Stok_\Stok_\obj\Debug\Stok_.frmMüşteriEkle.resources
+C:\Users\savas\OneDrive\Masaüstü\gorsel_stokprojesi - Kopya11\Stok_\Stok_\obj\Debug\Stok_.frmMüşteriListele.resources
+C:\Users\savas\OneDrive\Masaüstü\gorsel_stokprojesi - Kopya11\Stok_\Stok_\obj\Debug\Stok_.frmSatis.resources
+C:\Users\savas\OneDrive\Masaüstü\gorsel_stokprojesi - Kopya11\Stok_\Stok_\obj\Debug\Stok_.frmÜrünEkle.resources
+C:\Users\savas\OneDrive\Masaüstü\gorsel_stokprojesi - Kopya11\Stok_\Stok_\obj\Debug\Stok_.frmÜrünListele.resources
+C:\Users\savas\OneDrive\Masaüstü\gorsel_stokprojesi - Kopya11\Stok_\Stok_\obj\Debug\Stok_.Properties.Resources.resources
+C:\Users\savas\OneDrive\Masaüstü\gorsel_stokprojesi - Kopya11\Stok_\Stok_\obj\Debug\Stok_.csproj.GenerateResource.cache
+C:\Users\savas\OneDrive\Masaüstü\gorsel_stokprojesi - Kopya11\Stok_\Stok_\obj\Debug\Stok_.csproj.CoreCompileInputs.cache
+C:\Users\savas\OneDrive\Masaüstü\gorsel_stokprojesi - Kopya11\Stok_\Stok_\obj\Debug\Stok_.exe
+C:\Users\savas\OneDrive\Masaüstü\gorsel_stokprojesi - Kopya11\Stok_\Stok_\obj\Debug\Stok_.pdb
+C:\Users\savas\OneDrive\Masaüstü\gorsel_stokprojesi - Kopya11\Stok_\Stok_\obj\Debug\Stok_.frmkullanıcıgiris.resources
+C:\Users\savas\OneDrive\Masaüstü\gorsel_stokprojesi - Kopya11 - Kopya2\Stok_\Stok_\bin\Debug\Stok_.exe.config
+C:\Users\savas\OneDrive\Masaüstü\gorsel_stokprojesi - Kopya11 - Kopya2\Stok_\Stok_\bin\Debug\Stok_.exe
+C:\Users\savas\OneDrive\Masaüstü\gorsel_stokprojesi - Kopya11 - Kopya2\Stok_\Stok_\bin\Debug\Stok_.pdb
+C:\Users\savas\OneDrive\Masaüstü\gorsel_stokprojesi - Kopya11 - Kopya2\Stok_\Stok_\obj\Debug\Stok_.csproj.AssemblyReference.cache
+C:\Users\savas\OneDrive\Masaüstü\gorsel_stokprojesi - Kopya11 - Kopya2\Stok_\Stok_\obj\Debug\Stok_.frmKategori.resources
+C:\Users\savas\OneDrive\Masaüstü\gorsel_stokprojesi - Kopya11 - Kopya2\Stok_\Stok_\obj\Debug\Stok_.frmMarka.resources
+C:\Users\savas\OneDrive\Masaüstü\gorsel_stokprojesi - Kopya11 - Kopya2\Stok_\Stok_\obj\Debug\Stok_.frmMüşteriEkle.resources
+C:\Users\savas\OneDrive\Masaüstü\gorsel_stokprojesi - Kopya11 - Kopya2\Stok_\Stok_\obj\Debug\Stok_.frmMüşteriListele.resources
+C:\Users\savas\OneDrive\Masaüstü\gorsel_stokprojesi - Kopya11 - Kopya2\Stok_\Stok_\obj\Debug\Stok_.frmSatis.resources
+C:\Users\savas\OneDrive\Masaüstü\gorsel_stokprojesi - Kopya11 - Kopya2\Stok_\Stok_\obj\Debug\Stok_.frmÜrünEkle.resources
+C:\Users\savas\OneDrive\Masaüstü\gorsel_stokprojesi - Kopya11 - Kopya2\Stok_\Stok_\obj\Debug\Stok_.frmÜrünListele.resources
+C:\Users\savas\OneDrive\Masaüstü\gorsel_stokprojesi - Kopya11 - Kopya2\Stok_\Stok_\obj\Debug\Stok_.Properties.Resources.resources
+C:\Users\savas\OneDrive\Masaüstü\gorsel_stokprojesi - Kopya11 - Kopya2\Stok_\Stok_\obj\Debug\Stok_.csproj.GenerateResource.cache
+C:\Users\savas\OneDrive\Masaüstü\gorsel_stokprojesi - Kopya11 - Kopya2\Stok_\Stok_\obj\Debug\Stok_.csproj.CoreCompileInputs.cache
+C:\Users\savas\OneDrive\Masaüstü\gorsel_stokprojesi - Kopya11 - Kopya2\Stok_\Stok_\obj\Debug\Stok_.exe
+C:\Users\savas\OneDrive\Masaüstü\gorsel_stokprojesi - Kopya11 - Kopya2\Stok_\Stok_\obj\Debug\Stok_.pdb
